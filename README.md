@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.3.
 
+<div>
+  <img src="https://github.com/joellpaim/angular-to-do-list/blob/master/src/assets/img/Angular-to-do-list.png" alt="Screen">
+</div>
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
